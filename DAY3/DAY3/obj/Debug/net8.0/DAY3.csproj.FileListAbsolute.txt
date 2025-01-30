@@ -1,0 +1,14 @@
+C:\Users\pinga\source\repos\DAY3\DAY3\bin\Debug\net8.0\DAY3.exe
+C:\Users\pinga\source\repos\DAY3\DAY3\bin\Debug\net8.0\DAY3.deps.json
+C:\Users\pinga\source\repos\DAY3\DAY3\bin\Debug\net8.0\DAY3.runtimeconfig.json
+C:\Users\pinga\source\repos\DAY3\DAY3\bin\Debug\net8.0\DAY3.dll
+C:\Users\pinga\source\repos\DAY3\DAY3\bin\Debug\net8.0\DAY3.pdb
+C:\Users\pinga\source\repos\DAY3\DAY3\obj\Debug\net8.0\DAY3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pinga\source\repos\DAY3\DAY3\obj\Debug\net8.0\DAY3.AssemblyInfoInputs.cache
+C:\Users\pinga\source\repos\DAY3\DAY3\obj\Debug\net8.0\DAY3.AssemblyInfo.cs
+C:\Users\pinga\source\repos\DAY3\DAY3\obj\Debug\net8.0\DAY3.csproj.CoreCompileInputs.cache
+C:\Users\pinga\source\repos\DAY3\DAY3\obj\Debug\net8.0\DAY3.dll
+C:\Users\pinga\source\repos\DAY3\DAY3\obj\Debug\net8.0\refint\DAY3.dll
+C:\Users\pinga\source\repos\DAY3\DAY3\obj\Debug\net8.0\DAY3.pdb
+C:\Users\pinga\source\repos\DAY3\DAY3\obj\Debug\net8.0\DAY3.genruntimeconfig.cache
+C:\Users\pinga\source\repos\DAY3\DAY3\obj\Debug\net8.0\ref\DAY3.dll
