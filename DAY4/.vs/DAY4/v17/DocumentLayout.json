@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\pinga\\OneDrive\\Documents\\GitHub\\wipro\\DAY4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{812EC4FF-5784-46EA-B780-86748817916A}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\pinga\\onedrive\\documents\\github\\wipro\\day4\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{812EC4FF-5784-46EA-B780-86748817916A}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{812EC4FF-5784-46EA-B780-86748817916A}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\pinga\\onedrive\\documents\\github\\wipro\\day4\\consoleapp1\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{812EC4FF-5784-46EA-B780-86748817916A}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{812EC4FF-5784-46EA-B780-86748817916A}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\pinga\\onedrive\\documents\\github\\wipro\\day4\\consoleapp1\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{812EC4FF-5784-46EA-B780-86748817916A}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{812EC4FF-5784-46EA-B780-86748817916A}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\pinga\\onedrive\\documents\\github\\wipro\\day4\\consoleapp1\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{812EC4FF-5784-46EA-B780-86748817916A}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{812EC4FF-5784-46EA-B780-86748817916A}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\pinga\\onedrive\\documents\\github\\wipro\\day4\\consoleapp1\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{812EC4FF-5784-46EA-B780-86748817916A}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{812EC4FF-5784-46EA-B780-86748817916A}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\pinga\\onedrive\\documents\\github\\wipro\\day4\\consoleapp1\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{812EC4FF-5784-46EA-B780-86748817916A}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{812EC4FF-5784-46EA-B780-86748817916A}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\pinga\\onedrive\\documents\\github\\wipro\\day4\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{812EC4FF-5784-46EA-B780-86748817916A}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,24 +26,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Employee.cs",
               "DocumentMoniker": "C:\\Users\\pinga\\OneDrive\\Documents\\GitHub\\wipro\\DAY4\\ConsoleApp1\\Employee.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Employee.cs",
               "ToolTip": "C:\\Users\\pinga\\OneDrive\\Documents\\GitHub\\wipro\\DAY4\\ConsoleApp1\\Employee.cs",
               "RelativeToolTip": "ConsoleApp1\\Employee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-30T04:45:41.768Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Department.cs",
               "DocumentMoniker": "C:\\Users\\pinga\\OneDrive\\Documents\\GitHub\\wipro\\DAY4\\ConsoleApp1\\Department.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Department.cs",
@@ -56,7 +56,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Manager.cs",
               "DocumentMoniker": "C:\\Users\\pinga\\OneDrive\\Documents\\GitHub\\wipro\\DAY4\\ConsoleApp1\\Manager.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Manager.cs",
@@ -69,13 +69,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\pinga\\OneDrive\\Documents\\GitHub\\wipro\\DAY4\\ConsoleApp1\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
               "ToolTip": "C:\\Users\\pinga\\OneDrive\\Documents\\GitHub\\wipro\\DAY4\\ConsoleApp1\\Program.cs",
               "RelativeToolTip": "ConsoleApp1\\Program.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAA1wBIAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-30T04:36:48.387Z",
               "EditorCaption": ""
