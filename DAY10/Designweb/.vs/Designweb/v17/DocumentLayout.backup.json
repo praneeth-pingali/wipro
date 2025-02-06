@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pinga\\OneDrive\\Documents\\GitHub\\wipro\\DAY8\\ASSIGNMENT2\\Designweb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC8F50A7-4630-4D1F-9391-E3B0CF5AB3E8}|Designweb\\Designweb.csproj|c:\\users\\pinga\\onedrive\\documents\\github\\wipro\\day8\\assignment2\\designweb\\designweb\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC8F50A7-4630-4D1F-9391-E3B0CF5AB3E8}|Designweb\\Designweb.csproj|solutionrelative:designweb\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC8F50A7-4630-4D1F-9391-E3B0CF5AB3E8}|Designweb\\Designweb.csproj|c:\\users\\pinga\\onedrive\\documents\\github\\wipro\\day8\\assignment2\\designweb\\designweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC8F50A7-4630-4D1F-9391-E3B0CF5AB3E8}|Designweb\\Designweb.csproj|solutionrelative:designweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\pinga\\OneDrive\\Documents\\GitHub\\wipro\\DAY8\\ASSIGNMENT2\\Designweb\\Designweb\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Designweb\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\pinga\\OneDrive\\Documents\\GitHub\\wipro\\DAY8\\ASSIGNMENT2\\Designweb\\Designweb\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "Designweb\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBAAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T11:18:55.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pinga\\OneDrive\\Documents\\GitHub\\wipro\\DAY8\\ASSIGNMENT2\\Designweb\\Designweb\\Program.cs",
+              "RelativeDocumentMoniker": "Designweb\\Program.cs",
+              "ToolTip": "C:\\Users\\pinga\\OneDrive\\Documents\\GitHub\\wipro\\DAY8\\ASSIGNMENT2\\Designweb\\Designweb\\Program.cs",
+              "RelativeToolTip": "Designweb\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T11:08:42.025Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+C:\Users\pinga\OneDrive\Documents\GitHub\wipro\DAY8\ASSIGNMENT2\Library\TestProject1\obj\Debug\net8.0\TestProject1.csproj.AssemblyReference.cache
+C:\Users\pinga\OneDrive\Documents\GitHub\wipro\DAY8\ASSIGNMENT2\Library\TestProject1\obj\Debug\net8.0\TestProject1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pinga\OneDrive\Documents\GitHub\wipro\DAY8\ASSIGNMENT2\Library\TestProject1\obj\Debug\net8.0\TestProject1.AssemblyInfoInputs.cache
+C:\Users\pinga\OneDrive\Documents\GitHub\wipro\DAY8\ASSIGNMENT2\Library\TestProject1\obj\Debug\net8.0\TestProject1.AssemblyInfo.cs
+C:\Users\pinga\OneDrive\Documents\GitHub\wipro\DAY8\ASSIGNMENT2\Library\TestProject1\obj\Debug\net8.0\TestProject1.csproj.CoreCompileInputs.cache
+C:\Users\pinga\OneDrive\Documents\GitHub\wipro\DAY8\ASSIGNMENT2\Library\TestProject1\obj\Debug\net8.0\TestProject1.sourcelink.json

@@ -1,0 +1,17 @@
+C:\Users\pinga\OneDrive\Documents\GitHub\wipro\WinFormsApp1DAY7\WinFormsApp1DAY7\bin\Debug\net8.0-windows\WinFormsApp1DAY7.exe
+C:\Users\pinga\OneDrive\Documents\GitHub\wipro\WinFormsApp1DAY7\WinFormsApp1DAY7\bin\Debug\net8.0-windows\WinFormsApp1DAY7.deps.json
+C:\Users\pinga\OneDrive\Documents\GitHub\wipro\WinFormsApp1DAY7\WinFormsApp1DAY7\bin\Debug\net8.0-windows\WinFormsApp1DAY7.runtimeconfig.json
+C:\Users\pinga\OneDrive\Documents\GitHub\wipro\WinFormsApp1DAY7\WinFormsApp1DAY7\bin\Debug\net8.0-windows\WinFormsApp1DAY7.dll
+C:\Users\pinga\OneDrive\Documents\GitHub\wipro\WinFormsApp1DAY7\WinFormsApp1DAY7\bin\Debug\net8.0-windows\WinFormsApp1DAY7.pdb
+C:\Users\pinga\OneDrive\Documents\GitHub\wipro\WinFormsApp1DAY7\WinFormsApp1DAY7\obj\Debug\net8.0-windows\ReflectioninWebform.Form1.resources
+C:\Users\pinga\OneDrive\Documents\GitHub\wipro\WinFormsApp1DAY7\WinFormsApp1DAY7\obj\Debug\net8.0-windows\WinFormsApp1DAY7.csproj.GenerateResource.cache
+C:\Users\pinga\OneDrive\Documents\GitHub\wipro\WinFormsApp1DAY7\WinFormsApp1DAY7\obj\Debug\net8.0-windows\WinFormsApp1DAY7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pinga\OneDrive\Documents\GitHub\wipro\WinFormsApp1DAY7\WinFormsApp1DAY7\obj\Debug\net8.0-windows\WinFormsApp1DAY7.AssemblyInfoInputs.cache
+C:\Users\pinga\OneDrive\Documents\GitHub\wipro\WinFormsApp1DAY7\WinFormsApp1DAY7\obj\Debug\net8.0-windows\WinFormsApp1DAY7.AssemblyInfo.cs
+C:\Users\pinga\OneDrive\Documents\GitHub\wipro\WinFormsApp1DAY7\WinFormsApp1DAY7\obj\Debug\net8.0-windows\WinFormsApp1DAY7.csproj.CoreCompileInputs.cache
+C:\Users\pinga\OneDrive\Documents\GitHub\wipro\WinFormsApp1DAY7\WinFormsApp1DAY7\obj\Debug\net8.0-windows\WinFormsApp1DAY7.sourcelink.json
+C:\Users\pinga\OneDrive\Documents\GitHub\wipro\WinFormsApp1DAY7\WinFormsApp1DAY7\obj\Debug\net8.0-windows\WinFormsApp1DAY7.dll
+C:\Users\pinga\OneDrive\Documents\GitHub\wipro\WinFormsApp1DAY7\WinFormsApp1DAY7\obj\Debug\net8.0-windows\refint\WinFormsApp1DAY7.dll
+C:\Users\pinga\OneDrive\Documents\GitHub\wipro\WinFormsApp1DAY7\WinFormsApp1DAY7\obj\Debug\net8.0-windows\WinFormsApp1DAY7.pdb
+C:\Users\pinga\OneDrive\Documents\GitHub\wipro\WinFormsApp1DAY7\WinFormsApp1DAY7\obj\Debug\net8.0-windows\WinFormsApp1DAY7.genruntimeconfig.cache
+C:\Users\pinga\OneDrive\Documents\GitHub\wipro\WinFormsApp1DAY7\WinFormsApp1DAY7\obj\Debug\net8.0-windows\ref\WinFormsApp1DAY7.dll

@@ -1,0 +1,15 @@
+C:\Users\pinga\OneDrive\Documents\GitHub\wipro\DAY8\DAY8\obj\Debug\net8.0\DAY8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pinga\OneDrive\Documents\GitHub\wipro\DAY8\DAY8\obj\Debug\net8.0\DAY8.AssemblyInfoInputs.cache
+C:\Users\pinga\OneDrive\Documents\GitHub\wipro\DAY8\DAY8\obj\Debug\net8.0\DAY8.AssemblyInfo.cs
+C:\Users\pinga\OneDrive\Documents\GitHub\wipro\DAY8\DAY8\obj\Debug\net8.0\DAY8.csproj.CoreCompileInputs.cache
+C:\Users\pinga\OneDrive\Documents\GitHub\wipro\DAY8\DAY8\obj\Debug\net8.0\DAY8.sourcelink.json
+C:\Users\pinga\OneDrive\Documents\GitHub\wipro\DAY8\DAY8\bin\Debug\net8.0\DAY8.exe
+C:\Users\pinga\OneDrive\Documents\GitHub\wipro\DAY8\DAY8\bin\Debug\net8.0\DAY8.deps.json
+C:\Users\pinga\OneDrive\Documents\GitHub\wipro\DAY8\DAY8\bin\Debug\net8.0\DAY8.runtimeconfig.json
+C:\Users\pinga\OneDrive\Documents\GitHub\wipro\DAY8\DAY8\bin\Debug\net8.0\DAY8.dll
+C:\Users\pinga\OneDrive\Documents\GitHub\wipro\DAY8\DAY8\bin\Debug\net8.0\DAY8.pdb
+C:\Users\pinga\OneDrive\Documents\GitHub\wipro\DAY8\DAY8\obj\Debug\net8.0\DAY8.dll
+C:\Users\pinga\OneDrive\Documents\GitHub\wipro\DAY8\DAY8\obj\Debug\net8.0\refint\DAY8.dll
+C:\Users\pinga\OneDrive\Documents\GitHub\wipro\DAY8\DAY8\obj\Debug\net8.0\DAY8.pdb
+C:\Users\pinga\OneDrive\Documents\GitHub\wipro\DAY8\DAY8\obj\Debug\net8.0\DAY8.genruntimeconfig.cache
+C:\Users\pinga\OneDrive\Documents\GitHub\wipro\DAY8\DAY8\obj\Debug\net8.0\ref\DAY8.dll

@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pinga\\OneDrive\\Documents\\GitHub\\wipro\\DAY8\\ASSIGNMENT1\\Testing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE632AD2-333A-46D3-9797-4C5F4E6DD209}|TestProject1\\TestProject1.csproj|c:\\users\\pinga\\onedrive\\documents\\github\\wipro\\day8\\assignment1\\testing\\testproject1\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE632AD2-333A-46D3-9797-4C5F4E6DD209}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C4238EE-F708-4F43-B606-F78AF93E963C}|Testing\\Testing.csproj|c:\\users\\pinga\\onedrive\\documents\\github\\wipro\\day8\\assignment1\\testing\\testing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C4238EE-F708-4F43-B606-F78AF93E963C}|Testing\\Testing.csproj|solutionrelative:testing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C4238EE-F708-4F43-B606-F78AF93E963C}|Testing\\Testing.csproj|c:\\users\\pinga\\onedrive\\documents\\github\\wipro\\day8\\assignment1\\testing\\testing\\calc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C4238EE-F708-4F43-B606-F78AF93E963C}|Testing\\Testing.csproj|solutionrelative:testing\\calc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE632AD2-333A-46D3-9797-4C5F4E6DD209}|TestProject1\\TestProject1.csproj|c:\\users\\pinga\\onedrive\\documents\\github\\wipro\\day8\\assignment1\\testing\\testproject1\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE632AD2-333A-46D3-9797-4C5F4E6DD209}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Test1.cs",
+              "DocumentMoniker": "C:\\Users\\pinga\\OneDrive\\Documents\\GitHub\\wipro\\DAY8\\ASSIGNMENT1\\Testing\\TestProject1\\Test1.cs",
+              "RelativeDocumentMoniker": "TestProject1\\Test1.cs",
+              "ToolTip": "C:\\Users\\pinga\\OneDrive\\Documents\\GitHub\\wipro\\DAY8\\ASSIGNMENT1\\Testing\\TestProject1\\Test1.cs",
+              "RelativeToolTip": "TestProject1\\Test1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T12:37:21.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MSTestSettings.cs",
+              "DocumentMoniker": "C:\\Users\\pinga\\OneDrive\\Documents\\GitHub\\wipro\\DAY8\\ASSIGNMENT1\\Testing\\TestProject1\\MSTestSettings.cs",
+              "RelativeDocumentMoniker": "TestProject1\\MSTestSettings.cs",
+              "ToolTip": "C:\\Users\\pinga\\OneDrive\\Documents\\GitHub\\wipro\\DAY8\\ASSIGNMENT1\\Testing\\TestProject1\\MSTestSettings.cs",
+              "RelativeToolTip": "TestProject1\\MSTestSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T12:36:02.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Calc.cs",
+              "DocumentMoniker": "C:\\Users\\pinga\\OneDrive\\Documents\\GitHub\\wipro\\DAY8\\ASSIGNMENT1\\Testing\\Testing\\Calc.cs",
+              "RelativeDocumentMoniker": "Testing\\Calc.cs",
+              "ToolTip": "C:\\Users\\pinga\\OneDrive\\Documents\\GitHub\\wipro\\DAY8\\ASSIGNMENT1\\Testing\\Testing\\Calc.cs",
+              "RelativeToolTip": "Testing\\Calc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T12:34:13.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pinga\\OneDrive\\Documents\\GitHub\\wipro\\DAY8\\ASSIGNMENT1\\Testing\\Testing\\Program.cs",
+              "RelativeDocumentMoniker": "Testing\\Program.cs",
+              "ToolTip": "C:\\Users\\pinga\\OneDrive\\Documents\\GitHub\\wipro\\DAY8\\ASSIGNMENT1\\Testing\\Testing\\Program.cs",
+              "RelativeToolTip": "Testing\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T11:47:47.98Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

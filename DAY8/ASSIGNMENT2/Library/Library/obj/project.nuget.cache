@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ahN+0nKuJNU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pinga\\OneDrive\\Documents\\GitHub\\wipro\\DAY8\\ASSIGNMENT2\\Library\\Library\\Library.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pinga\\.nuget\\packages\\mstest.analyzers\\3.7.3\\mstest.analyzers.3.7.3.nupkg.sha512",
+    "C:\\Users\\pinga\\.nuget\\packages\\mstest.testframework\\3.7.3\\mstest.testframework.3.7.3.nupkg.sha512"
+  ],
+  "logs": []
+}
