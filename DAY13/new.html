@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>New HTML</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>Welcome to html</h1>
+    <p id="mathEquation">A<sup>2</sup> + B<sup>2</sup></p>
+    <a href="https://www.wipro.com" target="_blank">WIPRO WEBSITE</a>
+    
+    <h3>Customer List</h3>
+    <ol>
+        <li>Ramesh</li>
+        <li>Suresh</li>
+        <li>Anita</li>
+        <li>Kiran</li>
+    </ol>
+    <img src="images/sample.png" alt="Sample Image" width="300">
+    <table>
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Name</th>
+                <th>Department</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>101</td>
+                <td>Varun</td>
+                <td>HR</td>
+            </tr>
+            <tr>
+                <td>102</td>
+                <td>Pooja</td>
+                <td>Finance</td>
+            </tr>
+        </tbody>
+    </table>
+    <br>
+    
+    <form>
+        <label for="username">Name</label>
+        <input type="text" id="username" name="username" placeholder="Enter Name" required>
+        <br>
+        
+        <label for="useremail">Email</label>
+        <input type="email" id="useremail" name="useremail" placeholder="Enter Email">
+        <br>
+        
+        <label for="userage">Age</label>
+        <input type="number" id="userage" name="userage" min="18" max="60">
+        <br>
+        
+        <label>Gender:</label>
+        <input type="radio" id="male" name="gender" value="Male">
+        <label for="male">Male</label>
+        <input type="radio" id="female" name="gender" value="Female">
+        <label for="female">Female</label>
+        <input type="radio" id="other" name="gender" value="Other">
+        <label for="other">Other</label>
+        <br>
+        
+        <label for="resume">Upload Resume:</label>
+        <input type="file" id="resume" name="resume" accept=".pdf, .doc, .docx">
+        <br>
+        
+        <input type="submit" value="Submit">
+        <input type="reset" value="Reset">
+    </form>
+</body>
+</html>
